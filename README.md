@@ -1,4 +1,12 @@
 ## my_STL
 ===
-## 简介
-本仓库的目的是为了联系数据结构与算法，并进一步提升模版编程
+## Introduction
+This is a sample implement of STL
+I want to improve my code
+
+## Code structure
+container<-algorithm<-application
+so ,cotainer is just at the bottom,it is quite simple.
+
+
+## Content
