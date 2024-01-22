@@ -1,7 +1,7 @@
 #pragma once
 
-#include "sample_stl/container/vector/allocator/double_times_allocator.h"
-#include "sample_stl/container/vector/allocator/linear_allocator.h"
+#include "simple_stl/container/vector/allocator/double_times_allocator.h"
+#include "simple_stl/container/vector/allocator/linear_allocator.h"
 
 
 namespace sstl{
@@ -187,10 +187,6 @@ void CopyFrom(DataType* old_elem,const int& start_rank,const int& end_rank){
         elem_[i-start_rank]=old_elem[i];
     }
 }
-
-
-
-
 
 
 private:

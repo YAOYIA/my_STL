@@ -1,7 +1,7 @@
 #pragma once
 
-#include "include/sample_stl/container/vector/vector.h"
-#include "include/sample_stl/algorithm/vector_algorithm/finder/vector_finder.h"
+#include "include/simple_stl/container/vector/vector.h"
+#include "include/simple_stl/algorithm/vector_algorithm/finder/vector_finder.h"
 
 
 namespace sstl{
